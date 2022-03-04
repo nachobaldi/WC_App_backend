@@ -5,11 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{58A2C65B-350D-450F-83EE-4029126AFC1F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{E3B0EF80-B6E4-4A06-A90D-0BECBF16F24D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbUtils", "Persistance\DbUtils.csproj", "{3231844D-8F2E-4F45-A7BD-439AD3E72BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{8C2920EA-7A54-48FB-98F2-1E53A35AD98C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{8C2920EA-7A54-48FB-98F2-1E53A35AD98C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		{58A2C65B-350D-450F-83EE-4029126AFC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58A2C65B-350D-450F-83EE-4029126AFC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58A2C65B-350D-450F-83EE-4029126AFC1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E3B0EF80-B6E4-4A06-A90D-0BECBF16F24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3B0EF80-B6E4-4A06-A90D-0BECBF16F24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3B0EF80-B6E4-4A06-A90D-0BECBF16F24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3B0EF80-B6E4-4A06-A90D-0BECBF16F24D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3231844D-8F2E-4F45-A7BD-439AD3E72BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3231844D-8F2E-4F45-A7BD-439AD3E72BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3231844D-8F2E-4F45-A7BD-439AD3E72BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
